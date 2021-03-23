@@ -1,0 +1,3 @@
+[submodule "concord-frontend"]
+	path = concord-frontend
+	url = https://github.com/koreanwglasses/concord-frontend.git
